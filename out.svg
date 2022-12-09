@@ -1,0 +1,599 @@
+<svg height="750" width="750" xmlns="http://www.w3.org/2000/svg">
+<style>
+svg { background-color: #ffffff00; } text { text-anchor: middle; dominant-baseline: central; } rect.piece { width: 75px; height: 75px; rx: 0px; ry: 0px; stroke-width: 0px; } rect.sub { width: 52.5px; height: 7.5px; } text { font-family: sans-serif; font-size: 30px; }
+</style>
+<g>
+<rect class="piece" fill="#ffb855ff" x="0" y="0"/>
+<text fill="#000000ff" x="37.5" y="37.5">
+20
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffe854ff" x="75" y="0"/>
+<text fill="#000000ff" x="112.5" y="37.5">
+22
+</text>
+</g>
+<g>
+<rect class="piece" fill="#8cff62ff" x="150" y="0"/>
+<text fill="#000000ff" x="187.5" y="37.5">
+39
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff6868ff" x="225" y="0"/>
+<text fill="#000000ff" x="262.5" y="37.5">
+6
+</text>
+</g>
+<g>
+<rect class="piece" fill="#958fffff" x="300" y="0"/>
+<text fill="#000000ff" x="337.5" y="37.5">
+80
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffb855ff" x="375" y="0"/>
+<text fill="#000000ff" x="412.5" y="37.5">
+17
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff8b5cff" x="450" y="0"/>
+<text fill="#000000ff" x="487.5" y="37.5">
+41
+</text>
+</g>
+<g>
+<rect class="piece" fill="#6aff6eff" x="525" y="0"/>
+<text fill="#000000ff" x="562.5" y="37.5">
+84
+</text>
+</g>
+<g>
+<rect class="piece" fill="#8cff62ff" x="600" y="0"/>
+<text fill="#000000ff" x="637.5" y="37.5">
+38
+</text>
+</g>
+<g>
+<rect class="piece" fill="#88e9ffff" x="675" y="0"/>
+<text fill="#000000ff" x="712.5" y="37.5">
+66
+</text>
+</g>
+<g>
+<rect class="piece" fill="#e4ff56ff" x="0" y="75"/>
+<text fill="#000000ff" x="37.5" y="112.5">
+27
+</text>
+</g>
+<g>
+<rect class="piece" fill="#958fffff" x="75" y="75"/>
+<text fill="#000000ff" x="112.5" y="112.5">
+78
+</text>
+</g>
+<g>
+<rect class="piece" fill="#d387ffff" x="150" y="75"/>
+<text fill="#000000ff" x="187.5" y="112.5">
+89
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff6868ff" x="225" y="75"/>
+<text fill="#000000ff" x="262.5" y="112.5">
+8
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff8b5cff" x="300" y="75"/>
+<text fill="#000000ff" x="337.5" y="112.5">
+81
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff8b5cff" x="375" y="75"/>
+<text fill="#000000ff" x="412.5" y="112.5">
+21
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffb855ff" x="450" y="75"/>
+<text fill="#000000ff" x="487.5" y="112.5">
+18
+</text>
+</g>
+<g>
+<rect class="piece" fill="#7bffcbff" x="525" y="75"/>
+<text fill="#000000ff" x="562.5" y="112.5">
+85
+</text>
+</g>
+<g>
+<rect class="piece" fill="#88e9ffff" x="600" y="75"/>
+<text fill="#000000ff" x="637.5" y="112.5">
+96
+</text>
+</g>
+<g>
+<rect class="piece" fill="#b6ff5bff" x="675" y="75"/>
+<text fill="#000000ff" x="712.5" y="112.5">
+63
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffe854ff" x="0" y="150"/>
+<text fill="#000000ff" x="37.5" y="187.5">
+52
+</text>
+</g>
+<g>
+<rect class="piece" fill="#8cff62ff" x="75" y="150"/>
+<text fill="#000000ff" x="112.5" y="187.5">
+40
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff8b5cff" x="150" y="150"/>
+<text fill="#000000ff" x="187.5" y="187.5">
+11
+</text>
+</g>
+<g>
+<rect class="piece" fill="#e4ff56ff" x="225" y="150"/>
+<text fill="#000000ff" x="262.5" y="187.5">
+29
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff6868ff" x="300" y="150"/>
+<text fill="#000000ff" x="337.5" y="187.5">
+4
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff8b5cff" x="375" y="150"/>
+<text fill="#000000ff" x="412.5" y="187.5">
+51
+</text>
+</g>
+<g>
+<rect class="piece" fill="#7bffcbff" x="450" y="150"/>
+<text fill="#000000ff" x="487.5" y="187.5">
+95
+</text>
+</g>
+<g>
+<rect class="piece" fill="#8dc9ffff" x="525" y="150"/>
+<text fill="#000000ff" x="562.5" y="187.5">
+67
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffe854ff" x="600" y="150"/>
+<text fill="#000000ff" x="637.5" y="187.5">
+82
+</text>
+</g>
+<g>
+<rect class="piece" fill="#8cff62ff" x="675" y="150"/>
+<text fill="#000000ff" x="712.5" y="187.5">
+37
+</text>
+</g>
+<g>
+<rect class="piece" fill="#82fff2ff" x="0" y="225"/>
+<text fill="#000000ff" x="37.5" y="262.5">
+58
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffe854ff" x="75" y="225"/>
+<text fill="#000000ff" x="112.5" y="262.5">
+62
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffe854ff" x="150" y="225"/>
+<text fill="#000000ff" x="187.5" y="262.5">
+32
+</text>
+</g>
+<g>
+<rect class="piece" fill="#6aff6eff" x="225" y="225"/>
+<text fill="#000000ff" x="262.5" y="262.5">
+44
+</text>
+</g>
+<g>
+<rect class="piece" fill="#e4ff56ff" x="300" y="225"/>
+<text fill="#000000ff" x="337.5" y="262.5">
+25
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff6868ff" x="375" y="225"/>
+<text fill="#000000ff" x="412.5" y="262.5">
+10
+</text>
+</g>
+<g>
+<rect class="piece" fill="#82fff2ff" x="450" y="225"/>
+<text fill="#000000ff" x="487.5" y="262.5">
+59
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff6868ff" x="525" y="225"/>
+<text fill="#000000ff" x="562.5" y="262.5">
+9
+</text>
+</g>
+<g>
+<rect class="piece" fill="#82fff2ff" x="600" y="225"/>
+<text fill="#000000ff" x="637.5" y="262.5">
+60
+</text>
+</g>
+<g>
+<rect class="piece" fill="#b6ff5bff" x="675" y="225"/>
+<text fill="#000000ff" x="712.5" y="262.5">
+93
+</text>
+</g>
+<g>
+<rect class="piece" fill="#8fa9ffff" x="0" y="300"/>
+<text fill="#000000ff" x="37.5" y="337.5">
+77
+</text>
+</g>
+<g>
+<rect class="piece" fill="#958fffff" x="75" y="300"/>
+<text fill="#000000ff" x="112.5" y="337.5">
+79
+</text>
+</g>
+<g>
+<rect class="piece" fill="#d387ffff" x="150" y="300"/>
+<text fill="#000000ff" x="187.5" y="337.5">
+90
+</text>
+</g>
+<g>
+<rect class="piece" fill="#8dc9ffff" x="225" y="300"/>
+<text fill="#000000ff" x="262.5" y="337.5">
+69
+</text>
+</g>
+<g>
+<rect class="piece" fill="#b48cffff" x="300" y="300"/>
+<text fill="#000000ff" x="337.5" y="337.5">
+98
+</text>
+</g>
+<g>
+<rect class="piece" fill="#b6ff5bff" x="375" y="300"/>
+<text fill="#000000ff" x="412.5" y="337.5">
+53
+</text>
+</g>
+<g>
+<rect class="piece" fill="#b6ff5bff" x="450" y="300"/>
+<text fill="#000000ff" x="487.5" y="337.5">
+43
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffe854ff" x="525" y="300"/>
+<text fill="#000000ff" x="562.5" y="337.5">
+42
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff8b5cff" x="600" y="300"/>
+<text fill="#000000ff" x="637.5" y="337.5">
+71
+</text>
+</g>
+<g>
+<rect class="piece" fill="#88e9ffff" x="675" y="300"/>
+<text fill="#000000ff" x="712.5" y="337.5">
+76
+</text>
+</g>
+<g>
+<rect class="piece" fill="#73ff9fff" x="0" y="375"/>
+<text fill="#000000ff" x="37.5" y="412.5">
+50
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffe854ff" x="75" y="375"/>
+<text fill="#000000ff" x="112.5" y="412.5">
+72
+</text>
+</g>
+<g>
+<rect class="piece" fill="#82fff2ff" x="150" y="375"/>
+<text fill="#000000ff" x="187.5" y="412.5">
+57
+</text>
+</g>
+<g>
+<rect class="piece" fill="#73ff9fff" x="225" y="375"/>
+<text fill="#000000ff" x="262.5" y="412.5">
+47
+</text>
+</g>
+<g>
+<rect class="piece" fill="#b6ff5bff" x="300" y="375"/>
+<text fill="#000000ff" x="337.5" y="412.5">
+83
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff6868ff" x="375" y="375"/>
+<text fill="#000000ff" x="412.5" y="412.5">
+1
+</text>
+</g>
+<g>
+<rect class="piece" fill="#e4ff56ff" x="450" y="375"/>
+<text fill="#000000ff" x="487.5" y="412.5">
+26
+</text>
+</g>
+<g>
+<rect class="piece" fill="#b6ff5bff" x="525" y="375"/>
+<text fill="#000000ff" x="562.5" y="412.5">
+33
+</text>
+</g>
+<g>
+<rect class="piece" fill="#8dc9ffff" x="600" y="375"/>
+<text fill="#000000ff" x="637.5" y="412.5">
+68
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff8b5cff" x="675" y="375"/>
+<text fill="#000000ff" x="712.5" y="412.5">
+31
+</text>
+</g>
+<g>
+<rect class="piece" fill="#7bffcbff" x="0" y="450"/>
+<text fill="#000000ff" x="37.5" y="487.5">
+75
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff8b5cff" x="75" y="450"/>
+<text fill="#000000ff" x="112.5" y="487.5">
+91
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffb855ff" x="150" y="450"/>
+<text fill="#000000ff" x="187.5" y="487.5">
+15
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffb855ff" x="225" y="450"/>
+<text fill="#000000ff" x="262.5" y="487.5">
+16
+</text>
+</g>
+<g>
+<rect class="piece" fill="#6aff6eff" x="300" y="450"/>
+<text fill="#000000ff" x="337.5" y="487.5">
+64
+</text>
+</g>
+<g>
+<rect class="piece" fill="#6aff6eff" x="375" y="450"/>
+<text fill="#000000ff" x="412.5" y="487.5">
+54
+</text>
+</g>
+<g>
+<rect class="piece" fill="#73ff9fff" x="450" y="450"/>
+<text fill="#000000ff" x="487.5" y="487.5">
+46
+</text>
+</g>
+<g>
+<rect class="piece" fill="#6aff6eff" x="525" y="450"/>
+<text fill="#000000ff" x="562.5" y="487.5">
+94
+</text>
+</g>
+<g>
+<rect class="piece" fill="#8fa9ffff" x="600" y="450"/>
+<text fill="#000000ff" x="637.5" y="487.5">
+87
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffb855ff" x="0" y="525"/>
+<text fill="#000000ff" x="37.5" y="562.5">
+14
+</text>
+</g>
+<g>
+<rect class="piece" fill="#b48cffff" x="75" y="525"/>
+<text fill="#000000ff" x="112.5" y="562.5">
+88
+</text>
+</g>
+<g>
+<rect class="piece" fill="#e4ff56ff" x="150" y="525"/>
+<text fill="#000000ff" x="187.5" y="562.5">
+30
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff6868ff" x="225" y="525"/>
+<text fill="#000000ff" x="262.5" y="562.5">
+3
+</text>
+</g>
+<g>
+<rect class="piece" fill="#e4ff56ff" x="300" y="525"/>
+<text fill="#000000ff" x="337.5" y="562.5">
+24
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff6868ff" x="375" y="525"/>
+<text fill="#000000ff" x="412.5" y="562.5">
+7
+</text>
+</g>
+<g>
+<rect class="piece" fill="#73ff9fff" x="450" y="525"/>
+<text fill="#000000ff" x="487.5" y="562.5">
+45
+</text>
+</g>
+<g>
+<rect class="piece" fill="#88e9ffff" x="525" y="525"/>
+<text fill="#000000ff" x="562.5" y="562.5">
+86
+</text>
+</g>
+<g>
+<rect class="piece" fill="#8cff62ff" x="600" y="525"/>
+<text fill="#000000ff" x="637.5" y="562.5">
+36
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffb855ff" x="675" y="525"/>
+<text fill="#000000ff" x="712.5" y="562.5">
+19
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffb855ff" x="0" y="600"/>
+<text fill="#000000ff" x="37.5" y="637.5">
+12
+</text>
+</g>
+<g>
+<rect class="piece" fill="#8cff62ff" x="75" y="600"/>
+<text fill="#000000ff" x="112.5" y="637.5">
+34
+</text>
+</g>
+<g>
+<rect class="piece" fill="#8fa9ffff" x="150" y="600"/>
+<text fill="#000000ff" x="187.5" y="637.5">
+97
+</text>
+</g>
+<g>
+<rect class="piece" fill="#e4ff56ff" x="225" y="600"/>
+<text fill="#000000ff" x="262.5" y="637.5">
+28
+</text>
+</g>
+<g>
+<rect class="piece" fill="#7bffcbff" x="300" y="600"/>
+<text fill="#000000ff" x="337.5" y="637.5">
+55
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffe854ff" x="375" y="600"/>
+<text fill="#000000ff" x="412.5" y="637.5">
+92
+</text>
+</g>
+<g>
+<rect class="piece" fill="#73ff9fff" x="450" y="600"/>
+<text fill="#000000ff" x="487.5" y="637.5">
+48
+</text>
+</g>
+<g>
+<rect class="piece" fill="#6aff6eff" x="525" y="600"/>
+<text fill="#000000ff" x="562.5" y="637.5">
+74
+</text>
+</g>
+<g>
+<rect class="piece" fill="#f580ffff" x="600" y="600"/>
+<text fill="#000000ff" x="637.5" y="637.5">
+99
+</text>
+</g>
+<g>
+<rect class="piece" fill="#8cff62ff" x="675" y="600"/>
+<text fill="#000000ff" x="712.5" y="637.5">
+35
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff8b5cff" x="0" y="675"/>
+<text fill="#000000ff" x="37.5" y="712.5">
+61
+</text>
+</g>
+<g>
+<rect class="piece" fill="#82fff2ff" x="75" y="675"/>
+<text fill="#000000ff" x="112.5" y="712.5">
+56
+</text>
+</g>
+<g>
+<rect class="piece" fill="#7bffcbff" x="150" y="675"/>
+<text fill="#000000ff" x="187.5" y="712.5">
+65
+</text>
+</g>
+<g>
+<rect class="piece" fill="#e4ff56ff" x="225" y="675"/>
+<text fill="#000000ff" x="262.5" y="712.5">
+23
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ffb855ff" x="300" y="675"/>
+<text fill="#000000ff" x="337.5" y="712.5">
+13
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff6868ff" x="375" y="675"/>
+<text fill="#000000ff" x="412.5" y="712.5">
+2
+</text>
+</g>
+<g>
+<rect class="piece" fill="#73ff9fff" x="450" y="675"/>
+<text fill="#000000ff" x="487.5" y="712.5">
+49
+</text>
+</g>
+<g>
+<rect class="piece" fill="#8dc9ffff" x="525" y="675"/>
+<text fill="#000000ff" x="562.5" y="712.5">
+70
+</text>
+</g>
+<g>
+<rect class="piece" fill="#ff6868ff" x="600" y="675"/>
+<text fill="#000000ff" x="637.5" y="712.5">
+5
+</text>
+</g>
+<g>
+<rect class="piece" fill="#b6ff5bff" x="675" y="675"/>
+<text fill="#000000ff" x="712.5" y="712.5">
+73
+</text>
+</g>
+</svg>
