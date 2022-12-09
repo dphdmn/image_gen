@@ -1,6 +1,6 @@
 # image_gen
 
-Generates an image of 15 puzzle
+Generates an SVG image of 15 puzzle or any other size sliding puzzle.
 
 Usage:
 
