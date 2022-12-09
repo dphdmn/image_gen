@@ -1,0 +1,10 @@
+[package]
+name = "image_gen"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+slidy = { git = "https://github.com/benwh1/slidy" }
+svg = "0.12.1"
