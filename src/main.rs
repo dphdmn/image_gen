@@ -2,7 +2,7 @@ use std::str::FromStr;
 use std::env;
 use slidy::puzzle::{
     color_scheme::Scheme, coloring::RainbowBrightFull, label::label::SplitFringe, puzzle::Puzzle,
-    render::{Renderer, Font, Text},
+    render::{Renderer, Text},
 };
 
 fn main() -> Result<(), Box<dyn std::error::Error>> {
