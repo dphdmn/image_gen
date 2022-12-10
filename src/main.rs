@@ -10,7 +10,7 @@ use clap::Parser;
 struct Args {
     #[arg(short, long, default_value_t = String::from("1 2 3 4/5 6 7 8/9 10 11 12/13 14 15 0"))]
     state: String,
-
+//test
     #[arg(short, long, default_value_t = String::from("SplitFringe"))]
     label: String,
 
