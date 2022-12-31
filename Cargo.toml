@@ -8,4 +8,4 @@ edition = "2021"
 [dependencies]
 slidy = { git = "https://github.com/benwh1/slidy" }
 svg = "0.12.1"
-clap = { version = "4.0.29", features = ["derive"] }
+clap = { version = "4.0.29", features = ["cargo", "derive"] }
